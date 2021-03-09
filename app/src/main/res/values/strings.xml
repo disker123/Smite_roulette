@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smite roulette</string>
+    <string name="Title_banner">Roulette of the GODS</string>
+    <string name="god_name">Default</string>
+    <string name="spin_to_win">SPIN TO WIN</string>
+    <string name="change_weel">Change Weel</string>
+</resources>
